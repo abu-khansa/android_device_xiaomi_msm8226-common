@@ -96,8 +96,8 @@ PRODUCT_BOOT_JARS += qcmediaplayer
 PRODUCT_PACKAGES += libxml2
 
 # Power
-PRODUCT_PACKAGES += \
-	power.msm8226
+#PRODUCT_PACKAGES += \
+#	power.msm8226
 
 # Lights
 PRODUCT_PACKAGES += \
